@@ -5,7 +5,7 @@ date:   2017-04-16
 categories: Docker Docker-Compose Rails PostgreSQL 
 ---
 
-Running rails development environment in docker is basically a three-step process.
+Using Docker Compose is basically a three-step process.
 
 1. Define your app’s environment with a `Dockerfile`.
 
