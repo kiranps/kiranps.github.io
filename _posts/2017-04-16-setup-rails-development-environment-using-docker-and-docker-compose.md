@@ -2,6 +2,7 @@
 layout: post
 title:  "Setup Rails Development Environment Using Docker and Docker Compose"
 description: "Development Environment for Rails in Docker (with PostgreSQL, Redis)"
+disqus: true
 date:   2017-04-16
 categories: Docker Docker-Compose Rails PostgreSQL 
 ---
